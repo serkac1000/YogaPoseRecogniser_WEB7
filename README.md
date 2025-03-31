@@ -1,5 +1,5 @@
 
-# YogaPose Recognizer v6.0.0
+# YogaPose Recognizer v7.0.0
 
 A web application for recognizing yoga poses using machine learning.
 
