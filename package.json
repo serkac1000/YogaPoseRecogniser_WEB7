@@ -1,0 +1,26 @@
+
+{
+  "name": "yogapose-recognizer",
+  "version": "7.0.0",
+  "private": true,
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.17.0",
+    "@tensorflow-models/pose-detection": "^2.1.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
+    "react-webcam": "^7.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.64",
+    "@types/react-dom": "^18.2.21",
+    "@vitejs/plugin-react": "^4.2.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.6"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  }
+}
